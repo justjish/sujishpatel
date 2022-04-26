@@ -1,0 +1,14 @@
+{
+  "name": "eslint-preset-sujishpatel",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-next": "12.1.6-canary.7",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "7.29.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
